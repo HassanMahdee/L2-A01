@@ -1,1 +1,10 @@
 assignmentInstructions.md
+/dist
+/src
+tsconfig.json
+index.html
+tsc-and-tsconfig.md
+generics-and-promises.md
+access-modifiers.md
+any-unknown-never.md
+union-and-intersection.md
